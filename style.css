@@ -1,0 +1,31 @@
+h1{
+    font-size: 250%;
+}
+span{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.first-part{
+    width: 40%;
+    
+}
+.first-part img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(orange,orangered);
+    color: white;
+}
+.compatible{
+    
+}
+#background{
+    background-image: url(images/shapes/7.png);
+}
