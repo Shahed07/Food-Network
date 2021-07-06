@@ -11,13 +11,19 @@ p{
 h3{
     color: blanchedalmond;
 }
+#top{
+    width: 100%;
+}
+#top .first-part img{
+    width: 100%;
+    padding-right: 5%;
+}    
 span{
     color: orangered;
 }
 .compatible{
     display: flex;
     margin-bottom: 60px;
-
 }
 .first-part{
     width: 40%;
@@ -59,4 +65,8 @@ span{
 }
 .color{
     color: grey;
+}
+.my-recipe{
+    text-align: center;
+    margin: 50px;
 }
