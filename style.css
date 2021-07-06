@@ -45,10 +45,12 @@ span{
    margin-left: 3%;
    margin-right: 3%;
    padding: 1%;
+   border-radius: 20px;
    box-shadow: 10px 10px 30px grey;
 }
 .add-recipe img{
     width: 100%;
+    border-radius: 10px;
 }
 .modify{
     background-color: black;
