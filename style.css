@@ -8,6 +8,9 @@ h1{
 p{
     font-size: 20px;
 }
+h3{
+    color: blanchedalmond;
+}
 span{
     color: orangered;
 }
@@ -37,10 +40,21 @@ span{
     background-repeat: no-repeat;   
 }
 .add-recipe{
-   max-width: 300%;
+   width: 32%;
    height: auto;
-   margin-left: 2%;
-   margin-right: 2%;
-   padding: 2%;
+   margin-left: 3%;
+   margin-right: 3%;
+   padding: 1%;
    box-shadow: 10px 10px 30px grey;
+}
+.add-recipe img{
+    width: 100%;
+}
+.modify{
+    background-color: black;
+    text-align: center;
+    padding: 10px 10px 100px;
+}
+.color{
+    color: grey;
 }
