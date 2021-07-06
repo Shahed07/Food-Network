@@ -34,10 +34,13 @@ span{
 }
 #background{
     background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;   
 }
-.recipes{
-    width: 40%;
-    padding: 10%;
+.add-recipe{
+   max-width: 300%;
+   height: auto;
+   margin-left: 2%;
+   margin-right: 2%;
+   padding: 2%;
+   box-shadow: 10px 10px 30px grey;
 }
